@@ -1,0 +1,61 @@
+body{
+
+    
+    background-image: url(/Image/bg1.png);
+    background-repeat: no-repeat;
+    
+  background-position: center; 
+  background-size: cover;
+ height: 100%;
+ 
+
+  text-align: center;
+
+
+}
+
+#about-us{
+     background: rgba(42, 38, 61, 0.82);
+     background-size: cover;
+     height: 100%;
+
+     
+     
+}
+
+.tanda-panah{
+
+  margin-right: 1800px;
+  padding-top: 50px;
+}
+
+h1{
+
+
+font-family: Pacifico;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 84px;
+text-align: center;
+
+padding-top: 300px;
+
+color: #FCB371;
+}
+
+p{
+
+
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 33px;
+text-align: center;
+
+padding-left: 400px;
+padding-right: 400px;
+
+color: #FFFFFF;
+}
