@@ -14,10 +14,12 @@ body{
 
 }
 
-#about-us{
+#form{
      background: rgba(42, 38, 61, 0.82);
      background-size: cover;
      height: 100%;
+     overflow-x: scroll;
+     padding-bottom: 400px;
 
      
      
