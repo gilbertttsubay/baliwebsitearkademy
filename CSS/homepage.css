@@ -1,0 +1,126 @@
+body{
+
+    
+    background-image: url(ImageBackground.png);
+    background-repeat: no-repeat;
+    
+  background-position: center; 
+  background-size: cover;
+ height: 100%;
+ 
+
+  text-align: center;
+
+
+}
+
+#homepage{
+     background: rgba(42, 38, 61, 0.82);
+     background-size: cover;
+     height: 100%;
+
+     
+     
+}
+
+.icon-bali{
+    padding-top: 250px;
+}
+
+
+
+.heading-1{
+    
+left: 476px;
+right: 476px;
+top: 223px;
+bottom: 329px;
+
+font-family: Pacifico;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 84px;
+text-align: center;
+color: white;
+
+}
+
+#travel-to-bali{
+    color: #FCB371;
+}
+
+p{
+    
+
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.btn{
+    width: 156px;
+height: 46px;
+left: 646px;
+top: 481px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.about-us{
+    width: 156px;
+height: 46px;
+left: 477px;
+top: 481px;
+
+border: 2px solid #FCB371;
+box-sizing: border-box;
+border-radius: 6px;
+background: transparent;
+
+font-family: Pacifico;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 21px;
+
+/* identical to box height */
+
+align-items: center;
+text-align: center;
+
+color: #FCB371;
+
+
+}
+
+.reservation{
+    width: 156px;
+height: 46px;
+left: 646px;
+top: 481px;
+
+background: #FCB371;
+border-radius: 6px;
+
+
+font-family: Pacifico;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 21px;
+
+/* identical to box height */
+
+align-items: center;
+text-align: center;
+color: white;
+}
+
+
